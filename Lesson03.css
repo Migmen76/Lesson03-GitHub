@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(206, 205, 205);
+    padding: 2em 2em 2em 2em;
+}
+
+h2{
+    color:rgb(83, 83, 233);
+} 
+
+h1{ 
+    color: rgb(173, 60, 60);
+}
+
+p{
+    border:solid;
+    color: rgb(88, 88, 88);
+    padding:1em;
+}
